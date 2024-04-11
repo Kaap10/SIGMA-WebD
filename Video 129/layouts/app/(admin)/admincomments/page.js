@@ -1,11 +1,11 @@
 import React from 'react'
 
-const page = () => {
+const Comment = () => {
   return (
     <div>
-      page
+      Comments
     </div>
   )
 }
 
-export default page
+export default Comment
